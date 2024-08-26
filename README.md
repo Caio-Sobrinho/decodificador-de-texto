@@ -30,7 +30,7 @@
 
 ### Prévia do projeto em funcionamento
 
-🚀 [Acesse por esse link o projeto online]()
+🚀 [Acesse por esse link o projeto online](https://decodificador-de-texto-tau-three.vercel.app/)
 
 ### 👨‍💻 Tecnologias
 
